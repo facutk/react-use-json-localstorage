@@ -1,0 +1,32 @@
+{
+  "name": "react-use-json-localstorage",
+  "version": "1.0.0",
+  "description": "React hook for using local storage with JSON objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/facutk/react-use-json-localstorage.git"
+  },
+  "keywords": [
+    "react",
+    "hook",
+    "use",
+    "json",
+    "localstorage"
+  ],
+  "author": "facu.tk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/facutk/react-use-json-localstorage/issues"
+  },
+  "homepage": "https://github.com/facutk/react-use-json-localstorage#readme",
+  "peerDependencies": {
+    "react": "^16.8.5"
+  },
+  "dependencies": {
+    "react-use-localstorage": "^3.0.1-alpha.0"
+  }
+}
